@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.cpp
+!README.md
+!classwork/
+!homework/
+# ...even if they are in subdirectories
+!*/
+/.c9/ 
+/.c9/*
+.c9/
+# etc...
+.c9/*
